@@ -2,161 +2,261 @@
   {
     "id": 1,
     "title": "Color Block Men Hooded Neck Red T-Shirt",
-    "description": "An special product",
+    "description": "Color Block Men Hooded Neck Red T-Shirt , made with 100% cotton.",
     "category": "men's clothing",
     "image": "https://rukminim1.flixcart.com/image/832/832/kl175ow0/t-shirt/a/e/h/xl-lho-try-this-original-imagy94cgqndawkp.jpeg?q=70",
-    "price": 250
+    "price": 250,
+    "color": ["red","blue","black","white"],
+    "size": ["M","L","XL"],
+    "brand": "peter england",
+    "rating": 4,
+    "rated": 5442
   },
   {
     "id": 2,
     "title": "Men Regular Fit Color Block Cut Away Collar Casual Shirt",
-    "description": "An special product",
+    "description": "Men Regular Fit Color Block Cut Away Collar Casual Shirt , made in USA.",
     "category": "men's clothing",
     "image": "https://rukminim1.flixcart.com/image/832/832/ki0loy80-0/fabric/z/w/t/no-unstitched-br1005-being-real-original-imafxwry9x46d7gf.jpeg?q=70",
-    "price": 303
+    "price": 303,
+    "color": ["red","black","white"],
+    "size": ["L","XL","XXL"],
+    "brand": "jockey",
+    "rating": 4.2,
+    "rated": 5352
   },
   {
     "id": 3,
     "title": "Men Regular Fit Printed Cut Away Collar Casual Shirt",
-    "description": "An special product",
+    "description": "Men Regular Fit Printed Cut Away Collar Casual Shirt , an special product.",
     "category": "men's clothing",
     "image": "https://rukminim1.flixcart.com/image/832/832/krdtlzk0/shirt/p/v/f/xl-chi-zoitgiest-original-imag56z3unzafzq6.jpeg?q=70",
-    "price": 302
+    "price": 302,
+    "color": ["white","cyan"],
+    "size": ["L","XXL"],
+    "brand": "jockey",
+    "rating": 4,
+    "rated": 3453
   },
   {
     "id": 4,
     "title": "Printed Men Round Neck Black T-Shirt",
-    "description": "An special product",
+    "description": "Printed Men Round Neck Black T-Shirt, good quality t-shirt.",
     "category": "men's clothing",
     "image": "https://rukminim1.flixcart.com/image/832/832/l0e6kcw0/t-shirt/h/g/d/m-half-triangel-black-one-nb-nicky-boy-original-imagc747apzffz5q.jpeg?q=70",
-    "price": 199
+    "price": 199,
+    "color": ["black","red","black"],
+    "size": ["S","M","L"],
+    "brand": "peter englang",
+    "rating": 4.5,
+    "rated": 5378
   },
   {
     "id": 5,
     "title": "Floral Print Bollywood Lycra Blend Saree  (Maroon, Black)",
-    "description": "An special product",
+    "description": "Floral Print Bollywood Lycra Blend Saree  (Maroon, Black) , an special product",
     "category": "women's clothing",
     "image": "https://rukminim1.flixcart.com/image/832/832/kflftzk0-0/sari/o/y/c/free-hitesh2series-fumvel-unstitched-original-imafwypg4fwky3a7.jpeg?q=70",
-    "price": 215
+    "price": 215,
+    "color": ["pink","black","red"],
+    "size": [],
+    "brand": "karagiri",
+    "rating": 4,
+    "rated": 1247
   },
   {
     "id": 6,
     "title": "Women Printed Cotton Silk A-line Kurta  (Black, Grey)",
-    "description": "An special product",
+    "description": "Women Printed Cotton Silk A-line Kurta  (Black, Grey) , limited stock!",
     "category": "women's clothing",
     "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/ethnic-set/p/g/a/l-shrug-l-anushansa-original-imafvdx2hqjpemwy-bb.jpeg?q=70",
-    "price": 231
+    "price": 231,
+    "color": ["black","gray","white"],
+    "size": ["L","XL","XXL"],
+    "brand": "rupa",
+    "rating": 4.6,
+    "rated": 4326
   },
   {
     "id": 7,
     "title": "Women Gown Black Dress",
-    "description": "An special product",
+    "description": "Women Gown Black Dress , new product",
     "category": "women's clothing",
     "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/k/y/t/m-b158-black-gown-babiva-fashion-original-imafzwz8mzsrhjzx-bb.jpeg?q=70",
-    "price": 664
+    "price": 664,
+    "color": ["black"],
+    "size": ["XL","XXL"],
+    "brand": "rupa",
+    "rating": 4.8,
+    "rated": 6437
   },
   {
     "id": 8,
     "title": "Women Kurta and Pant Set Viscose Rayon",
-    "description": "An special product",
+    "description": "Women Kurta and Pant Set Viscose Rayon , an special product",
     "category": "women's clothing",
     "image": "https://rukminim1.flixcart.com/image/832/832/l20rma80/ethnic-set/m/m/9/xxl-131-wine-kurta-pant-dupatta-set-ziva-fashion-original-imagdgbpyzftg5va.jpeg?q=70",
-    "price": 689
+    "price": 689,
+    "color": ["black","gray","brown"],
+    "size": ["L","XL"],
+    "brand": "rupa",
+    "rating": 4,
+    "rated": 7336
   },
   {
     "id": 9,
     "title": "Solid/Plain Bollywood Art Silk Saree  (Yellow)",
-    "description": "An special product",
+    "description": "Solid/Plain Bollywood Art Silk Saree  (Yellow) , limited time offer only.",
     "category": "women's clothing",
     "image": "https://rukminim1.flixcart.com/image/832/832/kxw5tow0/sari/7/p/y/free-latest-saree-2022-vaidehi-fashion-unstitched-original-imaga93yxhbwhr6z.jpeg?q=70",
-    "price": 351
+    "price": 351,
+    "color": ["yellow","orange","red"],
+    "size": [],
+    "brand": "karagiri",
+    "rating": 4.2,
+    "rated": 4252
   },
   {
     "id": 10,
     "title": "Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)",
-    "description": "An special product",
+    "description": "an futuristic android tv.",
     "category": "electronics",
     "image": "https://rukminim1.flixcart.com/image/416/416/l2ghgnk0/television/u/a/c/l32m7-5ain-mi-original-imagdsdwqf6bkmkz.jpeg?q=70",
-    "price": 12999
+    "price": 12999,
+    "color": ["black"],
+    "size": [32],
+    "brand": "xiaomi",
+    "rating": 4.5,
+    "rated": 9678
   },
   {
     "id": 11,
     "title": "Bajaj GX1 500 W Mixer Grinder",
-    "description": "An special product",
+    "description": "an powerful mixer grander.",
     "category": "electronics",
     "image": "https://rukminim1.flixcart.com/image/416/416/l2f20sw0/mixer-grinder-juicer/t/q/x/-original-imagdrhaqwvdu7wh.jpeg?q=70",
-    "price": 2290
+    "price": 2290,
+    "color": ["white","black"],
+    "size": [],
+    "brand": "bajaj",
+    "rating": 4.1,
+    "rated": 5462
   },
   {
     "id": 12,
     "title": "MSI Ryzen 7 Octa Core 5700U - (8 GB/512 GB SSD/Windows 11 Home) Modern 15 A5M-280IN Notebook  (15.6 inch, Carbon Gray, 1.6 Kg)",
-    "description": "An special product",
+    "description": "An powerful product, loved by gamers with ryzen 7.",
     "category": "electronics",
     "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/o/j/y/modern-15-a5m-280in-notebook-msi-original-imagghky6pgysr4f.jpeg?q=70",
-    "price": 52890
+    "price": 52890,
+    "color": [],
+    "size": [15.6],
+    "brand": "msi",
+    "rating": 4.4,
+    "rated": 5242
   },
   {
     "id": 13,
     "title": "SAMSUNG 6.5 kg Diamond Drum feature Fully Automatic Top Load Silver  (WA65A4002VS/TL)",
-    "description": "An special product",
+    "description": "powerful washing machine.",
     "category": "electronics",
     "image": "https://rukminim1.flixcart.com/image/416/416/kevpwnk0/washing-machine-new/g/t/5/wa65a4002vs-tl-samsung-original-imafvgz4qzfazbsh.jpeg?q=70",
-    "price": 13990
+    "price": 13990,
+    "color": [],
+    "size": [],
+    "brand": "samsung",
+    "rating": 4.3,
+    "rated": 3248
   },
   {
     "id": 14,
     "title": "Prestige Atlas 3.0 Induction Cooktop  (Black, Push Button)",
-    "description": "An special product",
+    "description": "An induction by prestige.",
     "category": "electronics",
     "image": "https://rukminim1.flixcart.com/image/416/416/l2ghgnk0/induction-cook-top/s/t/z/-original-imagdsgnauhuvskd.jpeg?q=70",
-    "price": 1749
+    "price": 1749,
+    "color": [],
+    "size": [],
+    "brand": "prestige",
+    "rating": 4.6,
+    "rated": 54
   },
   {
     "id": 15,
     "title": "Flipkart SmartBuy FKCPK17 2 Fan Cooling Pad  (Black)",
-    "description": "An special product",
+    "description": "An special product, suggested by flipkart.",
     "category": "electronics",
     "image": "https://rukminim1.flixcart.com/image/416/416/jza5uvk0/cooling-pad/g/8/z/flipkart-smartbuy-fkcpk17-original-imafjc2xwgxyjhwg.jpeg?q=70",
-    "price": 399
+    "price": 399,
+    "color": [],
+    "size": [],
+    "brand": "flipkart smartbuy",
+    "rating": 4.2,
+    "rated": 1245
   },
   {
     "id": 16,
     "title": "SAMSUNG 23 L Solo Microwave Oven  (MS23A301TAK, Black)",
-    "description": "An special product",
+    "description": "An special product by samsung.",
     "category": "electronics",
     "image": "https://rukminim1.flixcart.com/image/416/416/l23mhzk0/microwave-new/2/x/h/ms23a301tak-samsung-23-original-imagdgmpy6pgsp6d.jpeg?q=70",
-    "price": 6490
+    "price": 6490,
+    "color": [],
+    "size": [],
+    "brand": "samsung",
+    "rating": 4.8,
+    "rated": 326
   },
   {
     "id": 17,
     "title": "Alloy Gold-plated Jewel Set  (Multicolor)",
-    "description": "An special product",
+    "description": "An special product for gold lovers",
     "category": "jewelery",
     "image": "https://rukminim1.flixcart.com/image/832/832/jndhrbk0/jewellery-set/c/7/h/ms-157-sitashi-original-imafa2tegu9yajxx.jpeg?q=70",
-    "price": 103
+    "price": 103,
+    "color": [],
+    "size": [],
+    "brand": "ms gold and diamonds",
+    "rating": 4,
+    "rated": 3652
   },
   {
     "id": 18,
     "title": "Alloy Gold-plated Jewel Set  (Red)",
-    "description": "An special product",
+    "description": "for gold lovers only.",
     "category": "jewelery",
     "image": "https://rukminim1.flixcart.com/image/832/832/k51cpe80/jewellery-set/f/v/r/n73542-sukkhi-original-imaf84xytt8swsbu.jpeg?q=70",
-    "price": 212
+    "price": 212,
+    "color": [],
+    "size": [],
+    "brand": "roy jewelers",
+    "rating": 4,
+    "rated": 542
   },
   {
     "id": 19,
     "title": "Alloy Gold-plated Jewel Set  (Multicolor)",
-    "description": "An special product",
+    "description": "An premium product",
     "category": "jewelery",
     "image": "https://rukminim1.flixcart.com/image/832/832/l4k7ssw0/jewellery-set/z/t/k/na-na-7317-nagneshi-art-original-imagffuzhzgahsz3.jpeg?q=70",
-    "price": 163
+    "price": 163,
+    "color": [],
+    "size": [],
+    "brand": "khanna juwelers",
+    "rating": 4,
+    "rated": 5432
   },
   {
     "id": 20,
     "title": "Alloy Gold-plated Jewel Set  (Green)",
-    "description": "An special product",
+    "description": "An special product by row jewelers",
     "category": "jewelery",
     "image": "https://rukminim1.flixcart.com/image/832/832/kt64fbk0/jewellery-set/y/0/j/na-na-angels01-angels-jewels-original-imag6hf5khghpjte.jpeg?q=70",
-    "price": 183
+    "price": 183,
+    "color": [],
+    "size": [],
+    "brand": "roy jewelers",
+    "rating": 4,
+    "rated": 234
   }
 ]
